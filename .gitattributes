@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ornella[[:space:]]Gigante/OneDrive/Escritorio/disney.ipynb filter=lfs diff=lfs merge=lfs -text
